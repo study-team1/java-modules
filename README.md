@@ -10,6 +10,7 @@
 ### 이중 인증
 - 추가적인 보안을 위해 SMS나 이메일을 통한 이중 인증 기능을 추가합니다.
 ### Spring Security
+`https://github.com/ShimSeongbo/java-springsecurity-tuto.git`
 - Spring Security Config 를 이용하여 인증/인가 기능을 추가.
 
 ![Spring Security Summary](https://github.com/study-team1/java-modules/assets/107231837/9939d661-453c-410c-bf3d-c98d81e6c54d)
