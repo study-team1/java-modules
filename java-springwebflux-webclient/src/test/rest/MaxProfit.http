@@ -1,0 +1,3 @@
+//GET localhost:8081/stocks/AAPL
+
+GET localhost:8081/stocks/MSFT/maxProfit

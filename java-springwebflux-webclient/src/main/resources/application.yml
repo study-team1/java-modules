@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+alphavantage:
+  api:
+    key: GJE8YGHFWUHVSBOW
