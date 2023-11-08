@@ -3,10 +3,19 @@
 ## 1. 로그인 기능
 ### OAuth 로그인
 - Google, Facebook, GitHub 등 다양한 서비스를 통한 소셜 로그인 기능을 구현합니다.
-### 이메일/비밀번호 로그인
-- 전통적인 이메일과 비밀번호를 사용한 로그인 기능.
+
+<img width="545" alt="260741862-9df42ae0-ed8c-4a8c-a1be-1070a3be3336" src="https://github.com/study-team1/java-modules/assets/107231837/c584e218-b4ef-4e18-bac2-fede00053dc5">
+
+
 ### 이중 인증
 - 추가적인 보안을 위해 SMS나 이메일을 통한 이중 인증 기능을 추가합니다.
+### Spring Security
+`https://github.com/ShimSeongbo/java-springsecurity-tuto.git`
+- Spring Security Config 를 이용하여 인증/인가 기능을 추가.
+
+![Spring Security Summary](https://github.com/study-team1/java-modules/assets/107231837/9939d661-453c-410c-bf3d-c98d81e6c54d)
+
+
 ## 2. 사용자 프로필 관리
 ### 프로필 수정
 - 사용자가 자신의 정보를 수정할 수 있게 하는 기능.
